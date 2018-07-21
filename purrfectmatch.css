@@ -1,0 +1,66 @@
+body {
+	background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=2&fit=crop&fm=jpg&h=775&q=50&w=1450);
+	background-size: cover;
+	background-position: center;
+	font-family: lato;
+}
+
+html {
+	height: 100%
+}
+.navbar-light {
+	color: #777;
+}
+
+.fas {
+	font-size: 0.8rem;
+}
+
+.navbar {
+	padding: 0.1% 0.1%;
+}
+
+.nav-link {
+	color: #777;
+
+}
+
+a: hover {
+	color: #555
+}
+
+.active {
+	background-color: #e7e7e7;	
+}
+
+.row {
+	margin-top: 14rem;
+}
+
+.col-lg-12 {
+	text-align: center;
+	color: white;
+}
+
+.display-4 {
+	font-weight: 700;
+}
+
+.lead {
+	font-weight: 600;
+}
+
+hr {
+	width: 30%;
+	border: 0.5px solid #f8f8f8
+}
+
+.btn {
+	color: black;
+	background-color: white;
+	border-color: white
+}
+
+.fa-poo {
+	font-size: 2rem;
+}
